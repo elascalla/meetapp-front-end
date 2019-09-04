@@ -8,9 +8,9 @@
   A challenge for [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) Certificate
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/elascalla/meetapp-front-end">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/elascalla/meetapp-front-end.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/elascalla/meetapp-front-end">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/elascalla/meetapp-front-end.svg">
 
   <a href="https://www.codacy.com/app/elascalla/meetapp-front-end?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=elascalla/meetapp-front-end&amp;utm_campaign=Badge_Grade">
   <img src="https://api.codacy.com/project/badge/Grade/21870f75fb774fdbbdfb5da6f63f03e7"/></a>
@@ -24,7 +24,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/elascalla/meetapp-front-end.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/elascalla/meetapp-front-end">
+  <img alt="GitHub" src="https://img.shields.io/github/license/elascalla/meetapp-front-end.svg">
 </p>
 
 <p align="center">
