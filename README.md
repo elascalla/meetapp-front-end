@@ -64,7 +64,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 ```bash
 
 # Go into the front path
-$ cd meetapp-gostack/front
+$ cd meetapp-front-end
 
 # Install dependencies
 $ yarn install
